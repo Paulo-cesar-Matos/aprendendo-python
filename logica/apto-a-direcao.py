@@ -1,0 +1,5 @@
+print("---------------------------------")
+print("Depertamento de transito do estado do Ceará")
+print("---------------------------------")
+ano_atual = input("Ano atual (yyyy): ")
+ano_nasc = input("Ano de nascimento (yyyy): ")
