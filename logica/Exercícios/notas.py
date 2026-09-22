@@ -6,5 +6,7 @@ media = (nota1 + nota2) / 2
 print(f"Sua média é: {media}")
 if media >= 7:
     print("Passou!")
+elif media >=5 or media < 7: # adicionado agora
+    print("Ficou em recuperação :-(")
 else:
     print("Reprovou :-(")
