@@ -1,4 +1,4 @@
-import msvcrt
+import msvcrt #para as opções do teclado
 
 print(
     '''     CRIANÇA ESPERANÇA

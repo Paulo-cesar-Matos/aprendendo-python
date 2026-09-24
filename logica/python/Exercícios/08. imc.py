@@ -4,7 +4,7 @@ print("Indice de massa corporal")
 peso = int (input("Seu peso: "))
 altura = float (input("Sua altura: "))
 imc = peso / (altura ** 2)
-print(f"Seu indice de massa corporal é {imc}!")
+print(f"Seu indice de massa corporal é {imc:.0f}!")
 time.sleep(3)
 
 if (imc < 17):
